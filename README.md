@@ -1,1 +1,4 @@
 # python-script-demo
+记录一些使用过的python脚本
+使用selenium模拟用户访问网站的脚本
+使用BeautifulSoup爬虫网站的脚本
